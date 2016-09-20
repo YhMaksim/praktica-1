@@ -1,0 +1,42 @@
+
+a:link 
+{
+	color: #990000;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	color: #ff0033;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a:active 
+{
+	color: #CC9933;
+	font-weight: bold;
+	text-decoration: underline;
+	background-color: #000099;
+}
+
+a:visited 
+{
+	color: #CC9933; font-weight: 100;text-decoration: none;
+}
+
+li 
+{
+	font-size: 30px;
+	text-align: left;
+	height: 50px;
+        margin-top: 90px;
+}
+
+
+body
+{
+	background-image: url(http://kiberfon.ucoz.ru/_ph/26/312715676.jpg?1472364931); background-size: 110%;
+}
+

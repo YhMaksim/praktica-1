@@ -1,0 +1,14 @@
+table {
+	width: 100%;
+	border-spacing: 0px 0px;
+	
+}
+
+td {
+	padding: 3px;
+	border: 1px solid black;
+}
+
+.colum-1{
+	text-align: center;
+}

@@ -1,0 +1,26 @@
+table {
+	width: 100%;
+	border-collapse: collapse;  	 
+}
+
+td {
+	padding: 3px;
+	border: 1px solid black;
+}
+
+.columI{
+	text-align: center;
+}
+
+th {
+    background: #bbbbbb; 
+    color: #000000;  
+   }
+   tbody tr:hover {
+    background: #bbbbbb; 
+    color: #000000; 
+}
+
+  .hover_of  td:hover {
+	background: #fff;
+  }

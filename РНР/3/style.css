@@ -1,0 +1,67 @@
+.fon {
+	min-height: 265px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #DDF0FA;
+	border: 1px solid gray;
+    margin-top: 180px;
+}
+
+.auto{
+    float: right;
+    background-color: #5F9EA0;
+    min-height: 200px;
+    width: 300px;
+    border: 1px solid gray;
+    margin-right: 15px;
+    margin-top: -30px;
+ }
+            
+.priv{ 
+    margin-left: 25px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+img{
+     margin-left: 30px;
+}
+
+h2{
+    font-size: 30px;
+    margin-left: 285px;
+    color: red;
+    font-family: sans-serif;
+}
+
+.user{
+    margin-left:15px;
+    margin-top: 30px;
+}
+
+.pass{
+    margin-top: 20px;
+    margin-left:15px;
+}
+
+.but{
+    margin-left: 15px;
+    margin-top: 20px;
+    height: 30px;
+    width: 50px;
+    background-color: #7FFFD4;
+    border: 1px solid darkgray;
+    cursor:pointer;
+}
+
+.welcom{
+	background-color: #DDF0FA;
+	width: 700px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+.welcom h1{
+	text-align: center;
+	padding-top: 78px;
+}

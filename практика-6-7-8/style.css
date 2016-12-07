@@ -1,0 +1,114 @@
+*{
+	line-height: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	height: auto;
+	background: url(img/background.jpg);
+}
+
+.container
+{
+	width: 928px;
+	margin: 0 auto;
+}
+
+.heder{
+	margin: 0 auto;
+	height: 182px;
+	max-width: 982px;
+	width: 100%;
+}
+
+.logo{
+	margin: 0 auto;
+	width: 335px;
+}
+
+.menu{
+	position: relative;
+	margin: 0 auto;
+	height: 60px;
+	max-height: 100px;
+	width: 922px;
+	background: url(img/button.jpg);
+}
+
+.menu-text{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+.menu-text li{
+	display: block;
+	float: left;
+	min-height: 40px;
+	cursor: pointer;
+	padding-top: 20px;
+	padding-left: 23px;
+	border-right-color: #a02626;
+	border-right-width: 3px;
+	border-right-style: ridge;
+	padding-right: 24px;
+}
+.menu-text li:last-child{
+	border: none;
+}
+.menu-text li a{
+	font-family: "Arial";
+	font-size: 14px;
+	font-weight: bolt;
+	color: #fff;
+	text-shadow: 0px 2px #000000;
+	text-decoration: none;
+}
+.menu-text li:hover{
+	background-image: url(img/hover_button.jpg);
+	color: #fff;
+}
+
+.menu-left{
+	position: absolute;
+	left: -90px;
+	bottom: -21px;
+	z-index: -1;
+}
+
+.menu-right{
+	position: absolute;
+	bottom: -21px;
+	right: -90px;
+	z-index: -1;
+}
+
+.baner{
+	outline-color: #fff;
+	outline-width: thick;
+	outline-offset: -1px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 7px;
+	background-color: #fff;
+	width: 911px;
+	height: 379px;
+	z-index: 2;
+	position: relative;
+}
+.arrowOne{
+	position: absolute;
+	top: 40%;
+	left: -24;	
+}
+.arrowTwo{
+	position: absolute;
+	top: 40%;
+	right: -24;
+}
+.slide{
+	width: 881px;
+	margin-left: 21px;
+	z-index: 51;
+}

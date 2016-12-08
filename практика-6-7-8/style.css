@@ -1,0 +1,251 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.clear{clear:both;}
+
+.contener{
+	width: 2000px;
+	max-width: 100%;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.heder{
+	width: 100%;
+	height: 660px;
+	margin-top: -20px;
+	padding-top: 20px;
+	background: url(img/banner.jpg);
+}
+
+.logo h1{
+	color: #fff;
+	margin-left: 200px;
+	font-size: 24px;
+	
+}
+
+.logo_img{
+	margin-top: -27x;
+	margin-left: 140px;
+}
+
+.menu{
+	float: right;
+	margin-right: 570px;
+	margin-top: -40px;
+}
+
+.menu li{
+	float: left;
+	margin-right: 40px;
+	list-style: none;
+	color: #fff;
+	font-size: 20px;
+}
+
+.phone{
+	float: right;
+	margin-right: 290px;
+	margin-top: -50px;
+}
+
+.telefon{
+	float: right;
+	margin-right: 160px;
+	margin-top: -45px;
+	color: #fff;
+}
+
+.info h1{
+	margin-left: 220px;
+	margin-top: 150px;
+	color: #fff;
+}
+
+.knopka h1{
+	color: #fff;
+	margin-top: 20px;
+	margin-left: 220px;
+	font-size: 15px;
+	width: 150px;
+	height: 25px;
+	background: #1f6ca0;
+	padding-left: 20px;
+	padding-top: 5px;
+}
+
+.text{
+	margin-left: 462px;
+	margin-top: -25px;
+	color: #fff;
+	font-size: 16px;
+}
+
+.videokp{
+	margin-left: 430px;
+	margin-top: -24px;
+}
+
+.content{
+	width: 70%; 
+	margin: 0 auto; 
+	background: #efb7c6;
+	margin-top: 10px
+}
+
+
+
+.comp{
+	margin-top: 20px;
+}
+
+
+
+.imgOne{
+	padding-top: -10px;
+}
+
+.imgTwo{
+	margin-left: 140px;
+	margin-top: -60px;
+}
+
+.imgThree{
+	margin-left: 300px;
+	margin-top: -45px;
+}
+
+.imgFour{
+	margin-left: 490px;
+	margin-top: -60px;
+}
+
+.imgFive{
+	margin-left: 700px;
+	margin-top: -80px;
+}
+
+.imgSix{
+	margin-left: 910px;
+	margin-top: -75px;
+}	
+
+.textslider h1 {
+	text-align:  center;
+	margin-top: 40px;
+	font-size: 20px;
+}
+
+.slde_info p{
+	text-align: center;	
+	margin-top: 10px;
+}
+
+.knopka_odin{
+	margin-top: -150px;
+}
+
+.knopka_dva{
+	float: right;
+	margin-top: -56px;
+}
+
+.text_dva{
+	text-align: center;
+	margin-top: 140px;
+}
+
+.content2 {
+	margin-top: 50px;
+}
+
+
+
+.textcontent{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.info_img{
+	margin-top: 40px;
+	text-align: center;
+}
+
+.infotextodin h1{
+	margin-left: 190px;
+	font-size: 15px;
+}
+
+.infotextdva h1{
+	text-align: center;
+	font-size: 15px;
+	margin-top: -18px;
+}
+
+.infotexttry h1{
+	float: right;
+	margin-right: 200px;
+	font-size: 15px;
+	margin-top: -18px;
+}
+
+
+.footer{
+    padding: 100px; 
+    background: #3498db; 
+    color: #fff; 
+	 
+}
+
+.blogoOne{
+	margin-top: -100px;
+	font-size: 20px;
+	margin-left: 100px;
+}
+
+.blogTwo{
+	margin-left: 40%; 
+	margin-top: -166px;
+}
+
+.blogThree{
+	margin-left: 52%;
+	margin-top: -120px;
+}
+
+.social p{
+	float: right;
+	margin-top: -90px;
+}
+
+.phone_dva img{
+	float:right;
+	margin-right: 160px;
+	margin-top: -20px;
+}
+
+.phone_dva p{
+	float: right;
+	
+}
+
+.img_mail{
+	float: right;
+	margin-right: 190px;
+}
+
+.text_mail{
+	float: right;
+	margin-left: 90px;
+}
+
+.text_niz{
+	float: right;
+	margin-top: 40px;
+}
